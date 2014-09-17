@@ -9,8 +9,7 @@
 
     // Déclaration des fonctions
     function $0()
-});
-]]></content>
+});]]></content>
 	<tabTrigger>jquery</tabTrigger>
 	<scope>source.js, text.html, text.plain</scope>
 	<description>Template de base pour du jQuery</description>
