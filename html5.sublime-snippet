@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<!-- Le contenu caché -->
+	<meta charset="utf-8" />
+	<title></title>
+</head>
+<body>
+	<!-- Le contenu visible -->
+	$0
+</body>
+</html>]]></content>
+	<tabTrigger>html5</tabTrigger>
+	<scope>source.php, text.html, text.plain</scope>
+	<description>Template html5 de base</description>
+</snippet>
