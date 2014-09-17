@@ -3,7 +3,7 @@
 
 
     // Fonctions à executer
-	$0
+	$0()
 
 
 
@@ -11,7 +11,7 @@
     function $0()
 });
 ]]></content>
-	<tabTrigger>html5</tabTrigger>
+	<tabTrigger>jquery</tabTrigger>
 	<scope>source.js, text.html, text.plain</scope>
 	<description>Template de base pour du jQuery</description>
 </snippet>
