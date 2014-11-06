@@ -21,7 +21,7 @@ Après avoir installé [Package Control](https://sublime.wbond.net/installation#
 ## Commandes disponibles
 
 1. `xhtml` crée le template XHTML 1.0 Strict
-2. `html` crée le template html5 de base (**Attention**: Il se peut qu'il y ait plus d'un résultat. Penser à choisir le bon ;) )
+2. `html5` crée le template html5 de base (**Attention**: Il se peut qu'il y ait plus d'un résultat. Penser à choisir le bon ;) )
 3. `jquery` crée la structure basique pour les fichiers javaScripts
 
 ## Utilisation
