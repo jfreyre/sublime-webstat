@@ -11,8 +11,8 @@ Après avoir installé [Package Control](https://sublime.wbond.net/installation#
 1. Executer la commande "Package Control: Add Repository".
 2. Dans la zone en bas, définir: `https://github.com/jfreyre/sublime-webstat.git`
 3. Presser `Enter`
-4. Executer la commande "Package Control: Install Packages"
-5. Recherche webstat
+4. Executer la commande "Package Control: Install Package"
+5. Recherche `webstat`
 6. Installer le pluggin "Sublime-Webstat"
 7. Redémarrer Sublime Text
 
